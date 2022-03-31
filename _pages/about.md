@@ -30,7 +30,7 @@ I am a scientific researcher in Tencent AI Lab. I revieved Ph.D. degree from Sch
 **Equal contribution**$^\star$
 **Corresponding author**$^\dagger$
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/pub/FENeRF.gif' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/pub/fenerf.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [FENeRF: Face Editing in Neural Radiance Fields](https://arxiv.org/pdf/2111.15490.pdf)
