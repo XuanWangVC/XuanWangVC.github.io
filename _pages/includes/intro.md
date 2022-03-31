@@ -1,0 +1,5 @@
+<span class='anchor' id='about-me'></span>
+
+I am a scientific researcher in Tencent AI Lab. I revieved Ph.D. degree from School of Computer Science and Technology, Xi'an Jiaotong University in 2019 under the supervision of [Prof. Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm) and [Prof. Jizhong Zhao](http://pvc.xjtu.edu.cn/info/1010/1058.htm). I was a visiting student at NICTA in 2015 supervised by [Dr. Mathieu Salzmann](https://people.epfl.ch/mathieu.salzmann). My research interests include non-rigid 3d reconstruction, performance capture, neural rendering, image synthesis and relevant applications. At present, we attempt to create the highly photorealistic and fully controllable digital avatar. 
+
+👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at Tencent AI Lab.** I am looking for the both research and engineering interns to work on neural rendering (e.g. NeRF), image synthesis and digital avatars. Feel free to contact me!</span>
