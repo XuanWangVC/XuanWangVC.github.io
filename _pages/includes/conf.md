@@ -71,7 +71,7 @@ Zhi Li$^\star$, **Xuan Wang**$^\star$, Fei Wang, Peilin Jiang
 **Xuan Wang**, Mathieu Salzmann, Fei Wang, Jizhong Zhao
 
 [**Project**](https://infoscience.epfl.ch/record/221131) <strong><span class='show_paper_citations' data='3xd3EAAAAJ:d1gkVwhDpl0C'></span></strong>
-- The first method that can recover a sharp NeRF from blurry input.
+- A template-free approach to reconstructing a poorly-textured, deformable surface.
 </div>
 </div>
 
