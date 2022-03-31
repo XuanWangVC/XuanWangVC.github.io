@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuan Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Scientific Researcher in Tencent AI Lab. Focusing on Neural Rendering and Digital Avatars."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xuan Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  avatar           : "images/portrait.jpeg"
+  bio              : "Tencent AI Lab"
+  location         : "Shenzhen, China"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h-3xd3EAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "xwang.cv@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "XuanWangVC"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:

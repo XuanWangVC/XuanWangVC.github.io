@@ -17,31 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a scientific researcher in Tencent AI Lab. I revieved Ph.D. degree from School of Computer Science and Technology, Xi'an Jiaotong University in 2019 under the supervision of [Prof. Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm) and [Prof. Jizhong Zhao](http://pvc.xjtu.edu.cn/info/1010/1058.htm). I was a visiting student at NIC`TA in 2015 supervised by [Dr. Mathieu Salzmann](https://people.epfl.ch/mathieu.salzmann). My research interests include non-rigid 3d reconstruction, performance capture, neural rendering, image synthesis and relevant applications. At present, we attempt to create the highly photorealistic and fully controllable digital avatar. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at Tencent AI Lab.** I am looking for the both research and engineering interns to work on neural rendering (e.g. NeRF), image synthesis and digital avatars. Feel free to contact me!</span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.03*: &nbsp;🎉🎉 1 paper accepted to IEEE TPAMI
+- *2022.03*: &nbsp;🎉🎉 4 papers accepted to CVPR 2022
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+**Equal contribution**$^\star$
+**Corresponding author**$^\dagger$
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/pub/FENeRF.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[FENeRF: Face Editing in Neural Radiance Fields](https://arxiv.org/pdf/2111.15490.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jingxiang Sun, **Xuan Wang**$^\dagger$, Yong Zhang, Xiaoyu Li, Qi Zhang, Yebin Liu, Jue Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://mrtornado24.github.io/FENeRF/) <strong><span class='show_paper_citations' data='3xd3EAAAAJ:LkGwnXOMwfcC'></span></strong>
+- The first portrait image generator that is locally editable and strictly view-consistent.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/pub/hdrnerf.gif' type="video/mp4`" alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
+[HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://arxiv.org/pdf/2111.14451.pdf)
+
+Xin Huang, Qi Zhang, Ying Feng, Hongdong Li, **Xuan Wang**, Qing Wang
+
+[**Project**](https://shsf0817.github.io/hdr-nerf/) <strong><span class='show_paper_citations' data='3xd3EAAAAJ:roLk4NBRz8UC'></span></strong>
+- High Dynamic Range Neural Radiance Fields (HDR-NeRF) to recover an HDR radiance field from a set of low dynamic range (LDR) views with different exposures.
+</div>
+</div>
+
+
+<!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -56,3 +70,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
