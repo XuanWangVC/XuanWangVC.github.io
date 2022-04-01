@@ -7,4 +7,16 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"ß
+    url: "/#-publications"
+
+  - title: ""
+    url: "/#-honors-and-awards"
+
+  - title: ""
+    url: "/#-educations"
+
+  - title: ""
+    url: "/#-talks"
+
+  - title: ""
+    url: "/#-internships"
