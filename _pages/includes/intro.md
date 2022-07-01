@@ -4,4 +4,4 @@ I am a scientific researcher in Tencent AI Lab. I revieved Ph.D. degree from Sch
 
 👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at Tencent AI Lab.** I am looking for the both research and engineering interns to work on neural rendering (e.g. NeRF), image synthesis and digital avatars. Feel free to contact me!</span>
 
-🔈 <span style="color:blue">**Positions at Xi'an Jiaotong University.** [Assoc. Prof. Yu Guo](https://yuguo-xjtu.github.io/), One of my co-authors, is looking for Master students, PH.D students, resreach assistants and engineers. Please visit his personal homepage to get more details.
+🔈 <span style="color:blue">**Positions at Xi'an Jiaotong University.** [Assoc. Prof. Yu Guo](https://yuguo-xjtu.github.io/), one of my co-authors, is looking for PH.D students, master students, resreach assistants and engineers. Please visit his personal homepage to get more details.
