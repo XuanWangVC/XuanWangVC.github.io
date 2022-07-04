@@ -3,6 +3,18 @@
 **Corresponding author**$^\dagger$
 
 ## Conference papers
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='images/pub/styleheat.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN](https://arxiv.org/pdf/2203.04036.pdf)
+
+Fei Yin, Yong Zhang, Xiaodong Cun, Mingdeng Cao, Yanbo Fan, **Xuan Wang**, Qingyan Bai, Baoyuan Wu, Jue Wang, Yujiu Yang
+
+[**Project**](https://feiiyin.github.io/StyleHEAT/) <strong><span class='show_paper_citations' data='3xd3EAAAAJ:LkGwnXOMwfcC'></span></strong>
+- We propose a novel unified framework based on a pre-trained StyleGAN that enables a set of powerful functionalities, i.e., high-resolution video generation, disentangled control by driving video or audio, and flexible face editing.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/pub/fenerf.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
