@@ -3,6 +3,41 @@
 **Corresponding author**$^\dagger$
 
 ## Conference papers
+<div class='paper-box'><div class='paper-box-image'><div class="badge">SIGGRAPH Asia 2022 (ToG)</div><img src='images/pub/IDE-3D.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis](https://arxiv.org/pdf/2205.15517.pdf)
+
+Jingxiang Sun, **Xuan Wang**, Yichun Shi, Lizhen Wang, Jue Wang, Yebin Liu
+
+[**Project**](https://mrtornado24.github.io/IDE-3D/) <strong><span class='show_paper_citations' data=''></span></strong>
+- we propose the IDE-3D, a locally disentangled, semantics-aware 3D face generator which supports interactive 3D face synthesis and local editing. Our method supports various free-view portrait editing tasks with the state-of-the-art performance in photorealism and efficiency.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">SIGGRAPH Asia 2022 (ToG)</div><img src='images/pub/DHHE.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+[Neural Parameterization for Dynamic Human Head Editing](https://arxiv.org/pdf/2207.00210.pdf)
+
+Li Ma, Xiaoyu Li, Jing Liao, **Xuan Wang**, Qi Zhang, Jue Wang, Pedro Sander
+
+[**Project**](https://xxx) <strong><span class='show_paper_citations' data=''></span></strong>
+- Neural Parameterization (NeP), a hybrid representation that provides the advantages of both implicit and explicit methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">SIGGRAPH Asia 2022 (Conf)</div><img src='images/pub/VideoReTalking.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild](https://arxiv.org/pdf/2203.04036.pdf)
+
+Kun Cheng, Xiaodong Cun, Yong Zhang, Menghan Xia, Fei Yin, Mingrui Zhu, **Xuan Wang**, Jue Wang, Nannan Wang
+
+[**Project**](https://xxx) <strong><span class='show_paper_citations' data=''></span></strong>
+- VideoReTalking, a new system to edit the faces of a real-world talking head video according to an input audio, producing a high-quality and lip-syncing output video even with a different emotion.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='images/pub/styleheat.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
