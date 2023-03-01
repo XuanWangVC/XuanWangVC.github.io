@@ -2,8 +2,6 @@
 **Equal contribution**$^\star$
 **Corresponding author**$^\dagger$
 
-{% include_relative pubs/2022.md %}
-
 
 
 [On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos](https://arxiv.org/pdf/2111.14292.pdf)
