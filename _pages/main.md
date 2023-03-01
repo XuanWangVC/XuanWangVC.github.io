@@ -21,5 +21,7 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 
 {% include_relative includes/news.md %}
 
-{% include_relative includes/pubs.md %}
+# 📝 Selected Publications 
+**Equal contribution**$^\star$
+**Corresponding author**$^\dagger$
 
