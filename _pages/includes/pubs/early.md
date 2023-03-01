@@ -1,7 +1,7 @@
 ## Early papers
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2019</div><img src='images/pub/boosting.png' type="video/mp4" alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"></div>
 
 [On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos](https://arxiv.org/pdf/2111.14292.pdf)
 
