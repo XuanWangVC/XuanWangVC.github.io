@@ -24,5 +24,3 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 {% include_relative includes/pubs.md %}
 
 {% include_relative includes/pubs/2022.md %}
-
-{% include_relative includes/pubs/early.md %}
