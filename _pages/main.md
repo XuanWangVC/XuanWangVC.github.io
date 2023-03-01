@@ -25,4 +25,4 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 **Equal contribution**$^\star$
 **Corresponding author**$^\dagger$
 
-{% include_relative includes/pubs/early.md %}
+{% include_relative includes/early.md %}
