@@ -2,7 +2,7 @@
 **Equal contribution**$^\star$
 **Corresponding author**$^\dagger$
 
-{% include _pages/includes/pubs/early.md %}
+
 
 <!--
 # 🎖 Honors and Awards
