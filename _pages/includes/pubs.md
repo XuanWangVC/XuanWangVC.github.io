@@ -2,7 +2,6 @@
 **Equal contribution**$^\star$
 **Corresponding author**$^\dagger$
 
-{% include_relative pubs/2022.md %}
 {% include_relative pubs/early.md %}
 
 <!--
