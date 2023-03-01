@@ -2,8 +2,6 @@
 **Equal contribution**$^\star$
 **Corresponding author**$^\dagger$
 
-{% include_relative pub_year/early.md %}
-
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2016</div><img src='images/pub/templatefree.gif' type="video/mp4`" alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
