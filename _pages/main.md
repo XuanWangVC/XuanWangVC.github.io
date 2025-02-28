@@ -23,6 +23,8 @@ If you like the template of this homepage, welcome to star and fork [Yi Ren](htt
 
 {% include_relative includes/pubs.md %}
 
+{% include_relative includes/pubs/2024.md %}
+
 {% include_relative includes/pubs/2023.md %}
 
 {% include_relative includes/pubs/2022.md %}
